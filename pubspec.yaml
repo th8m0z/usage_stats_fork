@@ -1,4 +1,4 @@
-name: usage_stats
+name: usage_stats_new
 description: Query Android Usage Statistics (Configurations, Events, Usage)
 version: 2.0.0
 homepage: https://github.com/Parassharmaa/usage_stats
