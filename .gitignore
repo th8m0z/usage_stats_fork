@@ -7,3 +7,10 @@
 build/
 
 *.lock
+.idea
+*.gradle
+*local.properties
+example/ios/flutter
+example/.flutter-plugins
+example/.flutter-plugins-dependencies
+example/android/app/src/main/java
