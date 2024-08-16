@@ -1,3 +1,8 @@
+## 2.0.0
+* Renamed package to `usage_stats_new`.
+* Updated import paths and method usages.
+* Updated gradle and Java versions 
+
 ## 1.2.0
 * Add Connection Type to query network
 * Query network usage based on package id
@@ -27,4 +32,3 @@
 * Add Grant Usage Permission and Check Permission API
 * Add Query Event and EventStats API
 * Add Query Configuration API
-
