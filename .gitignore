@@ -14,10 +14,3 @@ example/ios/flutter
 example/.flutter-plugins
 example/.flutter-plugins-dependencies
 example/android/app/src/main/java
-# Add files that should not be published
-android/build.gradle
-android/settings.gradle
-example/android/app/build.gradle
-example/android/build.gradle
-example/android/settings.gradle
-example/pubspec.lock
