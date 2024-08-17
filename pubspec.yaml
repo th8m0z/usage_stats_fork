@@ -1,6 +1,6 @@
 name: usage_stats_new
 description: Query Android Usage Statistics (Configurations, Events, Usage)
-version: 2.0.2
+version: 2.0.4
 homepage: https://github.com/acmonetwork/usage_stats
 
 environment:

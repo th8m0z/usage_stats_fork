@@ -1,4 +1,4 @@
-## 2.0.2
+## 2.0.3
 
 - fixed issue UsageStatsPlugin not found while compiling
 ## 2.0.0
