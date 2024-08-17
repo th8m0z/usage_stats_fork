@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
 import 'dart:async';
-import 'package:usage_stats_new/usage_stats_new.dart';
+import 'package:usage_stats_new/usage_stats.dart';
 
 void main() {
   runApp(MyApp());

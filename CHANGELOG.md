@@ -1,3 +1,6 @@
+## 2.0.2
+
+- fixed issue UsageStatsPlugin not found while compiling
 ## 2.0.0
 * Renamed package to `usage_stats_new`.
 * Updated import paths and method usages.
